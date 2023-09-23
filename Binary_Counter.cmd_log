@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/Downloads/digital/bct/Binary_Counter.xst" -ofn "/home/ise/Downloads/digital/bct/Binary_Counter.syr" 

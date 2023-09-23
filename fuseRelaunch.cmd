@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/Downloads/digital/bct/Binary_Counter_isim_beh.exe" -prj "/home/ise/Downloads/digital/bct/Binary_Counter_beh.prj" "work.Binary_Counter" 
